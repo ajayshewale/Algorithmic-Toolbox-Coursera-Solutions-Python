@@ -1,4 +1,4 @@
-# Algorithmic-Toolbox-Coursera-Solutions-Python-Solutions
+# Algorithmic-Toolbox-Coursera-Python-Solutions
 This repository contains Python-based solutions on Algorithm Toolbox Coursera program.  Course link: www.coursera.org/learn/algorithmic-toolbox
 
 
